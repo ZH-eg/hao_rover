@@ -1,4 +1,4 @@
-#  基于ROS2的仿真项目
+#  hao_rover仿真机器人系统
 
 ##  项目概述
 本项目是一个基于 **ROS2 (Robot Operating System 2)** 构建的机器人仿真系统。
